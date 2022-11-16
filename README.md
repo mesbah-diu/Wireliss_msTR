@@ -10,4 +10,4 @@ Clone it by "git clone https://github.com/mesbah-diu/Wireliss_msTR.git"
 
 change directory by "cd Wireliss_msTR"
 
-Clone it, change the password with "chmod +x binary.sh" and run it by simply typing ./binary.sh
+Clone it, change the permission with "chmod +x binary.sh" and run it by simply typing ./binary.sh
