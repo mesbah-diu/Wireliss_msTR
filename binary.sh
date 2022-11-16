@@ -71,7 +71,7 @@ if [[ $choice -eq 1 ]];then
     #read handshake
     #if [[$handshake == Y]];then
     #sudo aircrack-ng hack.AC:$bssid-01.cap -w /usr/share/wordlists/rockyou.txt
-    sudo xterm -e sudo airmon-ng stop wlan0mon & sudo aircrack-ng hack.$bssid-01.cap -w wordlist.txt
+    sudo xterm -e sudo airmon-ng stop wlan0mon & sudo aircrack-ng hack.$bssid-01.cap -w /usr/share/wordlists/rockyou.txt
 
     
     else
